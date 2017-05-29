@@ -11,6 +11,10 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
+    <modules>
+        <module>dataimporter</module>
+    </modules>
+
     <name>StringPrep</name>
     <description>Java Implementation of the StringPrep algorithm (RFC 3454)</description>
     <url>https://github.com/ongres/stringprep</url>
